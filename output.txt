@@ -1,0 +1,72 @@
+
+>> load sample.txt
+
+List of containers
+
+   No containers found
+
+Successfully created the stack s1
+
+Successfully created the stack s2
+
+Successfully created a queue q1
+
+Successfully created a queue q2
+
+Pushed user akk5 @ ticket 12345 into container s1
+
+Pushed user mor12 @ ticket 234 into container s1
+
+Pushed user mmo @ ticket 2345 into container s1
+
+Pushed user tommy @ ticket 20 into container s2
+
+Pushed user tilly @ ticket 12 into container s2
+
+Pushed user morgan @ ticket 123 into container q1
+
+Pushed user mm235 @ ticket 3456 into container q2
+
+List of containers
+
+  stack s1 containing 3 elements
+
+  stack s2 containing 2 elements
+
+  queue q1 containing 1 elements
+
+  queue q2 containing 1 elements
+
+
+The container s3 doesn't exist
+
+The container s1 contains 3 elements and is a stack
+
+The container q3 doesn't exist
+
+Successfully pop'd from the container q1
+
+List of containers
+
+  stack s1 containing 3 elements
+
+  stack s2 containing 2 elements
+
+  queue q1 containing 0 elements
+
+  queue q2 containing 1 elements
+
+
+The container q1 was deleted
+
+List of containers
+
+  stack s1 containing 3 elements
+
+  stack s2 containing 2 elements
+
+  queue q2 containing 1 elements
+
+
+
+>>

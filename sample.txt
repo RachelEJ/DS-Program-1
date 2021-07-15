@@ -1,0 +1,20 @@
+display
+create stack s1
+create stack s2
+create queue q1
+create queue q2
+push akk5 12345 into s1
+push mor12 234 into s1
+push mmo 2345 into s1
+push tommy 20 into s2
+push tilly 12 into s2
+push morgan 123 into q1
+push mm235 3456 into q2
+display
+find s3
+find s1
+pop q3
+pop q1
+display
+remove q1
+display
